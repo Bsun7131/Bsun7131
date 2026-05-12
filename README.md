@@ -22,6 +22,8 @@ Fast-paced mobile arcade experience focused on responsive gameplay and replayabi
 
 ### Bsun Obstacle
 Cross-platform obstacle-based game released across Android, Windows, Linux, and macOS platforms.
+🤖 Google Play  
+https://play.google.com/store/apps/details?id=com.Bsun.ObstacleGameSkyNew
 
 ### Bsun Table Tennis Music
 Browser-based table tennis experience combining interactive gameplay with music-driven mechanics for PC and mobile devices.
