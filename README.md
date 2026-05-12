@@ -29,8 +29,11 @@ Cross-platform obstacle-based game released across Android, Windows, Linux, and 
 https://play.google.com/store/apps/details?id=com.Bsun.ObstacleGameSkyNew
 
 ### Bsun Table Tennis Music
-Browser-based table tennis experience combining interactive gameplay with music-driven mechanics for PC and mobile devices.
 
+Browser-based interactive table tennis experience combining gameplay mechanics with music-driven interaction for desktop and mobile platforms.
+
+🎮 Play Online  
+https://bsun7131.github.io/Table-Tennis-Game/
 ---
 
 ## 🛠 Technical Focus
