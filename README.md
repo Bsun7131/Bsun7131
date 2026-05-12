@@ -19,14 +19,19 @@ https://bisan-subba.itch.io/
 
 ### Sky Gap Escape
 Fast-paced mobile arcade experience focused on responsive gameplay and replayability.
+
 🍎 Sky Gap Escape (App Store)  
+
 https://apps.apple.com/us/app/sky-gap-escape/id6758530573
 
-### Bsun Obstacle
-Cross-platform obstacle-based game released across Android, Windows, Linux, and macOS platforms.
-
+### Bsun Obstacle 
 🤖 Google Play  
 https://play.google.com/store/apps/details?id=com.Bsun.ObstacleGameSkyNew
+
+### Bsun Obstacle Game
+Cross-platform obstacle-based game released across Android, Windows, Linux, and macOS platforms.
+https://bisan-subba.itch.io/
+
 
 ### Bsun Table Tennis Music
 
