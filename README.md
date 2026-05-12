@@ -25,18 +25,16 @@ Fast-paced mobile arcade experience focused on responsive gameplay and replayabi
 https://apps.apple.com/us/app/sky-gap-escape/id6758530573
 
 ### Bsun Obstacle 
-🤖 Google Play  
+🤖 Bsun Obstacle (Google Play) 
 https://play.google.com/store/apps/details?id=com.Bsun.ObstacleGameSkyNew
 
 ### Bsun Obstacle Game
 Cross-platform obstacle-based game released across Android, Windows, Linux, and macOS platforms.
 https://bisan-subba.itch.io/
 
-
 ### Bsun Table Tennis Music
 
 Browser-based interactive table tennis experience combining gameplay mechanics with music-driven interaction for desktop and mobile platforms.
-
 🎮 Play Online  
 https://bsun7131.github.io/Table-Tennis-Game/
 ---
