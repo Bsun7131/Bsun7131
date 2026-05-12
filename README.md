@@ -1,31 +1,46 @@
 # Bisan Subba
 
-Independent Multi-Platform Software Engineer • Solo Game Developer • 3D Generalist
+🎮Independant Multi-Platform Software Engineer & Solo Game Developer  
+🛠 Unreal Engine • Gameplay Systems • Real-Time Interactive Experiences • 3D Pipelines
 
 I create interactive digital experiences, games, and immersive 3D worlds across mobile and desktop platforms.
 
-My work combines software engineering, gameplay systems, environment design, and real-time visual creation using modern game development and 3D production tools.
+My work combines software engineering, gameplay systems, environment design, and real-time visual creation using modern game development and 3D production workflows.
+
+🚀 Portfolio & Published Projects  
+https://bsun7131.github.io
+
+🎮 itch.io Releases  
+https://bisan-subba.itch.io/
+
+---
 
 ## 🎮 Featured Projects
 
 ### Sky Gap Escape
-Fast-paced mobile arcade experience available on the App Store.
+Fast-paced mobile arcade experience focused on responsive gameplay and replayability.
 
 ### Bsun Obstacle
-Cross-platform obstacle-based game published on Google Play, Windows, Linux, and macOS.
+Cross-platform obstacle-based game released across Android, Windows, Linux, and macOS platforms.
 
 ### Bsun Table Tennis Music
-Browser-based table tennis experience featuring music-driven gameplay for both PC and mobile platforms.
+Browser-based table tennis experience combining interactive gameplay with music-driven mechanics for PC and mobile devices.
 
-## 🛠 Technical Expertise
+---
+
+## 🛠 Technical Focus
 
 - Unreal Engine (C++ & Blueprints)
 - Gameplay Systems Development
-- 3D Modeling & Environment Design
+- Cross-Platform Game Development
 - Real-Time Interactive Experiences
-- Cross-Platform Publishing Workflows
+- Environment & World Creation
+- Game UI and Interaction Design
+- Multi-Platform Publishing Pipelines
 
-## 🎨 Creative Tools
+---
+
+## 🎨 Creative & Production Tools
 
 - Blender
 - Plasticity
@@ -33,22 +48,33 @@ Browser-based table tennis experience featuring music-driven gameplay for both P
 - Marmoset Toolbag
 - Photoshop
 
-## 🌍 Online Presence
-
-- Website: https://bsun7131.github.io
-- GitHub: https://github.com/Bsun7131
+---
 
 ## 📈 Highlights
 
 - Published multi-platform games and applications
+- Windows, Linux, macOS, Android, and Web deployments
 - 14+ released projects
 - 4000+ downloads across platforms
 - 1.2M+ artwork views on Pexels
 
+---
+
 ## 📌 Current Focus
 
-Currently focused on:
+Currently exploring:
+
 - Gameplay polish and optimization
-- Environment and world creation
-- Interactive real-time experiences
-- Expanding multi-platform game development workflows
+- Interactive environment creation
+- Real-time rendering workflows
+- Visual storytelling through gameplay
+- Expanding cross-platform development workflows
+
+---
+
+## 🌍 Online Presence
+
+- Portfolio Website: https://bsun7131.github.io
+- GitHub: https://github.com/Bsun7131
+- itch.io: https://bisan-subba.itch.io/
+- Pexels: https://www.pexels.com/@bisan-subba-95406729/
