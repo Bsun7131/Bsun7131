@@ -17,7 +17,7 @@ https://bisan-subba.itch.io/
 
 ## 🎮 Featured Projects
 
-## Microsoft Store
+### Bsun Calculator 
 
 🪟 Bsun Calculator is now available on Microsoft Store:
 
