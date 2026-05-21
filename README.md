@@ -17,6 +17,12 @@ https://bisan-subba.itch.io/
 
 ## 🎮 Featured Projects
 
+## Microsoft Store
+
+🪟 Bsun Calculator is now available on Microsoft Store:
+
+https://apps.microsoft.com/detail/xpdm38gbhdx8jv?cid=DevShareWAPCS&hl=en-US&gl=GB
+
 ### Sky Gap Escape
 Fast-paced mobile arcade experience focused on responsive gameplay and replayability.
 
