@@ -3,7 +3,7 @@
 🎮Independant Multi-Platform Software Engineer & Solo Game Developer  
 🛠 Unreal Engine • Gameplay Systems • Real-Time Interactive Experiences • 3D Pipelines
 
-I create interactive digital experiences, games, and immersive 3D worlds across mobile and desktop platforms.
+I create interactive digital experiences, apps and games, and immersive 3D worlds across mobile, web deployments and desktop platforms.
 
 My work combines software engineering, gameplay systems, environment design, and real-time visual creation using modern game development and 3D production workflows.
 
