@@ -24,6 +24,8 @@ https://bisan-subba.itch.io/
   
 ## 🎮 Featured Projects
 
+<h3><strong>📘 From Blender to Multi-Platform Publishing</strong></h3>
+
 🪟 <strong>
     <a href="https://apps.microsoft.com/detail/xpdm38gbhdx8jv?cid=DevShareWAPCS&hl=en-US&gl=GB" target="_blank">
         From Blender to Multi-Platform Publishing
