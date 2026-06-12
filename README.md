@@ -24,6 +24,13 @@ https://bisan-subba.itch.io/
   
 ## 🎮 Featured Projects
 
+🪟 <strong>
+    <a href="https://apps.microsoft.com/detail/xpdm38gbhdx8jv?cid=DevShareWAPCS&hl=en-US&gl=GB" target="_blank">
+        From Blender to Multi-Platform Publishing
+    </a>
+</strong>
+(<strong>Microsoft Store</strong>),
+
 ### Bsun Calculator 
 
 🪟 Bsun Calculator is now available on Microsoft Store:
