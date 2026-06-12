@@ -39,7 +39,7 @@ https://bisan-subba.itch.io/
 
 https://apps.microsoft.com/detail/xpdm38gbhdx8jv?cid=DevShareWAPCS&hl=en-US&gl=GB
 
-### Sky Gap Escape
+### Sky Gap Escape (Apple App Store)
 Fast-paced mobile arcade experience focused on responsive gameplay and replayability.
 
 🍎 Sky Gap Escape (App Store)  
