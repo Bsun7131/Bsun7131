@@ -86,17 +86,23 @@ https://bsun7131.github.io/Table-Tennis-Game/
 
 - Unreal Engine (C++ & Blueprints)
 - Swift & SwiftUI
+- Electron
+- Node.js
+- JavaScript
+- HTML5 & CSS3
 - Gameplay Systems Development
 - Cross-Platform Development
+- Web Deployment
 - Real-Time Interactive Experiences
 - Environment & World Creation
 - Game UI and Interaction Design
-- Multi-Platform Publishing Pipelines
+- Multi-Platform Publishing Pipelines.
   
 ---
 
 ## 🎨 Creative & Production Tools
 
+- Unreal Engine
 - Blender
 - Plasticity
 - Substance Painter
@@ -110,8 +116,8 @@ https://bsun7131.github.io/Table-Tennis-Game/
 - Published multi-platform games and applications
 - Windows, Linux, macOS, Android, and Web deployments
 - 14+ released projects
-- 4000+ downloads across platforms
-- 1.2M+ artwork views on Pexels
+- 5000+ downloads across platforms
+- 1.3M+ artwork views on Pexels
 
 ---
 
