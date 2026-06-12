@@ -14,7 +14,14 @@ https://bsun7131.github.io
 https://bisan-subba.itch.io/
 
 ---
+## Published Platforms
 
+- Apple App Store
+- Google Play
+- Microsoft Store
+- itch.io
+- GitHub Pages
+  
 ## 🎮 Featured Projects
 
 ### Bsun Calculator 
