@@ -1,5 +1,6 @@
 # Bisan Subba
 
+🎮Independent Multi-Platform Software Engineer & Solo Game Developer
 🛠 Unreal Engine • C++ • Swift • SwiftUI • Electron • Node.js • JavaScript • HTML5 • CSS3 • Microsoft Store Publishing • App Store Publishing • Cross-Platform Development • Real-Time Interactive Experiences • 3D Pipelines
 
 I create interactive digital experiences, apps and games, and immersive 3D worlds across mobile, web deployments and desktop platforms.
