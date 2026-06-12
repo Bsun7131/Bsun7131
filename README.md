@@ -46,6 +46,22 @@ Fast-paced mobile arcade experience focused on responsive gameplay and replayabi
 
 https://apps.apple.com/us/app/sky-gap-escape/id6758530573
 
+## 🎮 Sky Gap Escape (Google Play)
+
+Fast-paced platform game focused on timing, movement, and obstacle-based gameplay.
+
+▶️ Google Play
+
+https://play.google.com/store/apps/details?id=com.bsun.skygapescape
+
+## 💻 Sky Gap Escape (macOS)
+
+Native macOS edition of Sky Gap Escape, bringing the platforming experience to Apple desktop users.
+
+🍎 Mac App Store
+
+https://apps.apple.com/us/app/sky-gap-escape/id6758530573
+
 ### Bsun Obstacle 
 
 🤖 Bsun Obstacle (Google Play)
