@@ -1,7 +1,7 @@
 # Bisan Subba
 
-🎮Independant Multi-Platform Software Engineer & Solo Game Developer  
-🛠 Unreal Engine • Gameplay Systems • Real-Time Interactive Experiences • 3D Pipelines
+🎮 Independent Multi-Platform Software Engineer & Solo Game Developer
+🛠 Unreal Engine • C++ • Swift • SwiftUI • Electron • Real-Time Interactive Experiences • 3D Pipelines
 
 I create interactive digital experiences, apps and games, and immersive 3D worlds across mobile, web deployments and desktop platforms.
 
@@ -82,16 +82,17 @@ Browser-based table tennis experience featuring music-driven gameplay for deskto
 https://bsun7131.github.io/Table-Tennis-Game/
 ---
 
-## 🛠 Technical Focus
+## 🛠️ Technical Focus
 
 - Unreal Engine (C++ & Blueprints)
+- Swift & SwiftUI
 - Gameplay Systems Development
-- Cross-Platform Game Development
+- Cross-Platform Development
 - Real-Time Interactive Experiences
 - Environment & World Creation
 - Game UI and Interaction Design
 - Multi-Platform Publishing Pipelines
-
+  
 ---
 
 ## 🎨 Creative & Production Tools
