@@ -33,7 +33,9 @@ https://bisan-subba.itch.io/
 </strong>
 (<strong>Microsoft Store</strong>),
 
-🔗 <strong>
+### Bsun Nepali Date Watch
+
+<strong>
 <a href="YOUR_WATCHOS_APP_STORE_LINK_HERE" target="_blank">
 ⌚ Bsun Nepali Date Watch
 </a>
