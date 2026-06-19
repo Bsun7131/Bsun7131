@@ -33,15 +33,13 @@ https://bisan-subba.itch.io/
 </strong>
 (<strong>Microsoft Store</strong>),
 
-<strong>
+🔗 <strong>
 <a href="YOUR_WATCHOS_APP_STORE_LINK_HERE" target="_blank">
-Bsun Nepali Date Watch
+⌚ Bsun Nepali Date Watch
 </a>
 </strong>
 (<strong>App Store</strong>),
     
-
-
 ### Bsun Calculator 
 
 🪟 Bsun Calculator is now available on Microsoft Store:
