@@ -33,7 +33,7 @@ https://bisan-subba.itch.io/
 </strong>
 (<strong>Microsoft Store</strong>),
 
-<div class="project">
+
     <h3>Bsun Nepali Date Watch</h3>
 
     <p>
@@ -43,7 +43,7 @@ https://bisan-subba.itch.io/
     <a href="PASTE_WATCHOS_APP_STORE_LINK_HERE" target="_blank">
         🍎 Download on the App Store
     </a>
-</div>
+
 
 ### Bsun Calculator 
 
