@@ -33,16 +33,13 @@ https://bisan-subba.itch.io/
 </strong>
 (<strong>Microsoft Store</strong>),
 
-
-    <h3>Bsun Nepali Date Watch</h3>
-
-    <p>
-        A clean watchOS utility app showing today’s Nepali date, English date, and day name.
-    </p>
-
-    <a href="PASTE_WATCHOS_APP_STORE_LINK_HERE" target="_blank">
-        🍎 Download on the App Store
-    </a>
+<strong>
+<a href="YOUR_WATCHOS_APP_STORE_LINK_HERE" target="_blank">
+Bsun Nepali Date Watch
+</a>
+</strong>
+(<strong>App Store</strong>),
+    
 
 
 ### Bsun Calculator 
