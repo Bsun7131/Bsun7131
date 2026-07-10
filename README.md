@@ -28,16 +28,13 @@ https://bisan-subba.itch.io/
 
 Available on the Microsoft Store.
 
-<a href="https://apps.microsoft.com/detail/9P2G8VR35TG6?hl=en-US&gl=GB" target="_blank">
-📘 From Blender to Multi-Platform Publishing
-</a>
+[📘 From Blender to Multi-Platform Publishing](https://apps.microsoft.com/detail/9P2G8VR35TG6?hl=en-US&gl=GB)
+
 ### ⌚ Bsun Nepali Date Watch
 
 Available on the Apple App Store.
 
-<a href="https://apps.apple.com/gb/app/bsun-nepali-date-watch/id6778738065" target="_blank">
-⌚ Bsun Nepali Date Watch
-</a>
+[⌚ Bsun Nepali Date Watch](https://apps.apple.com/gb/app/bsun-nepali-date-watch/id6778738065)
     
 ### Bsun Calculator 
 
