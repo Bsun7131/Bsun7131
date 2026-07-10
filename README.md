@@ -28,12 +28,11 @@ https://bisan-subba.itch.io/
 
 ### 📘 From Blender to Multi-Platform Publishing
 
-Available now on the Microsoft Store.
+Available on the Microsoft Store.
 
-<a href="https://apps.microsoft.com/detail/xpdm38gbhdx8jv?cid=DevShare&hl=en-US&gl=GB" target="_blank">
+<a href="https://apps.microsoft.com/detail/9P2G8VR35TG6?hl=en-US&gl=GB" target="_blank">
 📘 From Blender to Multi-Platform Publishing
 </a>
-
 ### Bsun Nepali Date Watch
 
 <strong>
