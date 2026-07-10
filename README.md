@@ -24,8 +24,6 @@ https://bisan-subba.itch.io/
   
 ## 🎮 Featured Projects
 
-<h3><strong>📘 From Blender to Multi-Platform Publishing</strong></h3>
-
 ### 📘 From Blender to Multi-Platform Publishing
 
 Available on the Microsoft Store.
@@ -33,14 +31,13 @@ Available on the Microsoft Store.
 <a href="https://apps.microsoft.com/detail/9P2G8VR35TG6?hl=en-US&gl=GB" target="_blank">
 📘 From Blender to Multi-Platform Publishing
 </a>
-### Bsun Nepali Date Watch
+### ⌚ Bsun Nepali Date Watch
 
-<strong>
-<a href="YOUR_WATCHOS_APP_STORE_LINK_HERE" target="_blank">
+Available on the Apple App Store.
+
+<a href="https://apps.apple.com/gb/app/bsun-nepali-date-watch/id6778738065" target="_blank">
 ⌚ Bsun Nepali Date Watch
 </a>
-</strong>
-(<strong>App Store</strong>),
     
 ### Bsun Calculator 
 
